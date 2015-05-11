@@ -1,0 +1,3 @@
+%{"estree": {:hex, :estree, "1.0.1"},
+  "poison": {:hex, :poison, "1.1.1"},
+  "rl": {:git, "git://github.com/camshaft/rl.git", "fba1138276f8817bc132e596acb60bf185a0a8f8", []}}
